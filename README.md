@@ -1,4 +1,3 @@
 
-# HomeDelivery
-Application VTC Web pour le transport de matériaux et colis 
 # ColisExpress
+Web Ride-Hailing Application for Goods and Parcel Transport
